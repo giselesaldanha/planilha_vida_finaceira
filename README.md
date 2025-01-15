@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/Imagem_dashboard.jpeg"
+    src="./assets/Imagem_dashboard.JPG"
     width="300"
 />
 </p>
